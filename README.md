@@ -25,7 +25,7 @@ The ATM-Simulator-System is a secure and efficient internet banking application 
 ### Steps
 1. *Clone the Repository*
    sh
-   git clone https://github.com/yourusername/ATM-Simulator-System.git
+   git clone https://github.com/yourusername/ATM-Simulator.git
    cd ATM-Simulator-System
    
 
@@ -53,7 +53,7 @@ The ATM-Simulator-System is a secure and efficient internet banking application 
      
 
 5. *Access the Application*
-   - Open your web browser and navigate to http://localhost:8080/ATM-Simulator-System.
+   - Open your web browser and navigate to http://localhost:8080/ATM-Simulator.
 
 ## Usage
 1. *Login*
