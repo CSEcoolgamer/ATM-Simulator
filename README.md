@@ -73,6 +73,7 @@ The ATM-Simulator-System employs robust security measures, including:
 - *Authentication*: Multi-factor authentication mechanisms ensure secure access.
 - *Audit Trails*: All transactions are logged for security audits and monitoring.
 
+## ScreenShots:
 
 ---
 
