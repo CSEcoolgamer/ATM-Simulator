@@ -74,7 +74,13 @@ The ATM-Simulator-System employs robust security measures, including:
 - *Audit Trails*: All transactions are logged for security audits and monitoring.
 
 ## ScreenShots:
-
+![main](Screenshot%20(256).png)
+![1](Screenshot%20(257).png)
+![2](Screenshot%20(258).png)
+![3](Screenshot%20(259).png)
+![4](Screenshot%20(260).png)
+![5](Screenshot%20(261).png)
+![6](Screenshot%20(262).png)
 ---
 
 Thank you for using the ATM-Simulator-System! We hope it meets all your internet banking needs securely and efficiently.
